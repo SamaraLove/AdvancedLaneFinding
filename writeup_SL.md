@@ -1,6 +1,8 @@
-# *Advanced Lane Finding** 
+# *Advanced Lane Finding*
 ## Writeup 
 ### Project 2. "Becoming a Self-Driving Car Engineer" Nanodegree (Udacity)
+
+The learnings and material from the corresponding lectures were used in this project.
 
 ---
 
@@ -27,9 +29,9 @@ The goals / steps of this project are the following:
 [image4]: ./output_examples/Warpedexample.jpg "Warped Example"
 [image5]: ./output_examples/WarpedPoints_example.jpg "Warped Example with Points"
 [image6]: ./output_examples/Histogram.png "Histogram"
-[image7]: ./output_examples/SlidingWindow.png "Sliding Window"
+[image7]: ./output_examples/Slidingwindow.png "Sliding Window"
 [image8]: ./output_examples/SlidingWindow2.png "Sliding Window 2"
-[image9]: ./output_examples/RadiusCurve.png "Radius Equation"
+[image9]: ./output_examples/RadiusCurve.PNG "Radius Equation"
 [image10]: ./output_examples/FinalPipeline.png "Final Example"
 
 [video1]: ./output_examples/project_video_ouput.mp4 "Video"
@@ -126,7 +128,7 @@ Below is an example of the test1 image.
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
 Output video can be found in my github repository here
-https://github.com/SamaraLove/AdvancedLaneFinding/tree/master/output_images 
+https://github.com/SamaraLove/AdvancedLaneFinding/blob/master/output_examples/project_video_output.mp4
 
 ---
 
