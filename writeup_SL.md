@@ -127,8 +127,7 @@ Below is an example of the test1 image.
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Output video can be found in my github repository here
-https://github.com/SamaraLove/AdvancedLaneFinding/blob/master/output_examples/project_video_output.mp4
+Output video can be found in my github repository [here](https://github.com/SamaraLove/AdvancedLaneFinding/blob/master/output_examples/project_video_output.mp4)
 
 ---
 
